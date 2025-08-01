@@ -1,0 +1,1 @@
+This folder contains daily frontend tips and tricks.
